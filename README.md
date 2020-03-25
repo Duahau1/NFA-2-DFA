@@ -1,4 +1,4 @@
-# Project 2: Nondeterministic Finite Automata)
+# Project 2: Nondeterministic Finite Automata
 
 * Author: Van Nguyen, Lam Nguyen
 * Class: CS361 Section Sole
